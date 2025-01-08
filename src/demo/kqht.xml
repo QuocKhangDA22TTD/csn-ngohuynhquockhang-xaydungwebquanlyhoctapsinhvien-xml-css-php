@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mon>
+  <monHoc>
+    <maMonHoc>220228</maMonHoc>
+    <tenMonHoc>Kỹ thuật lập trình</tenMonHoc>
+    <soTCLT>2</soTCLT>
+    <soTCTH>2</soTCTH>
+  </monHoc>
+  <monHoc>
+    <maMonHoc>220002</maMonHoc>
+    <tenMonHoc>Tin học Ứng dụng cơ bản</tenMonHoc>
+    <soTCLT>2</soTCLT>
+    <soTCTH>1</soTCTH>
+  </monHoc>
+</mon>

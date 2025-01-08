@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đăng Ký Môn Học</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="./Public/css/home.css">
+    <link rel="stylesheet" href="./Public/css/signin.css">
+    <link rel="stylesheet" href="./Public/css/student_m.css">
+    <link rel="stylesheet" href="./Public/css/info.css">
+</head>
+<body>
+    <div class="sidebar">
+        <a href="#"><i class="bi bi-house-fill"></i>Trang Chủ</a>
+        <a href="#"><i class="bi bi-mortarboard-fill"></i>Quản Lý Sinh Viên</a>
+        <a href="#"><i class="bi bi-book-fill"></i>Quản Lý Giảng Viên</a>
+        <a href="#"><i class="bi bi-clipboard-fill"></i>Quản Lý Lớp Học</a>
+        <a href="#"><i class="bi bi-info-circle-fill"></i>Thông Tin</a>
+        <a href="#"><i class="bi bi-box-arrow-in-right"></i>Đăng Nhập</a>
+        <a href="#"><i class="bi bi-door-closed"></i>Đăng Xuất</a>
+    </div>
+    <nav class="navbar navbar-expand-lg navbar-custom">
+        <div class="container-fluid">
+            <a href="#"><img id="logo" src="https://cdn.haitrieu.com/wp-content/uploads/2021/12/Logo-DH-Tra-Vinh-TVU.png" alt="Logo-DH-Tra-Vinh-TVU"></a>
+            <ul class="navbar-nav ms-auto">
+                <a class="avatar" href="#"><i class="bi bi-person-circle"></i></a>
+            </ul>
+        </div>
+    </nav>
+    <div class="content">
+        <div class="student_management">
+            <div class="notice_title text-center">ĐĂNG KÝ MÔN HỌC</div>
+            <div class="f-end my-3">
+                <form class="search d-flex" action="" method="get">
+                    <input type="text" class="form-control" name="search_key">
+                    <button type="submit" class="btn custom-search-btn"><i class="bi bi-search"></i></button>
+                </form>
+            </div>
+            <div class="register">
+                <div class="table-container">
+                    <table class="table table-striped table_custom">
+                        <thead class="table_th_custom">
+                            <tr>
+                                <th>ID</th>
+                                <th>Môn Học</th>
+                                <th>Giảng Viên</th>
+                                <th>Số Lượng</th>
+                                <th>Còn Lại</th>
+                                <th>Chức Năng</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>SV002</td>
+                                <td>Lịch Sử Đảng</td>
+                                <td>Phạm Minh C</td>
+                                <td>40</td>
+                                <td>20</td>
+                                <td>
+                                    <button class="btn btn-success" data-bs-toggle="modal" data-bs-target="#comfirmation_form_modal"><i class="bi-clipboard-check"></i>Đăng Ký</button>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>SV003</td>
+                                <td>Vi Tích Phân</td>
+                                <td>Nguyễn Văn A</td>
+                                <td>40</td>
+                                <td>18</td>
+                                <td>
+                                    <button class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#comfirmation_form_modal"><i class="bi-clipboard-check"></i>Hủy Đăng Ký</button>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="comfirmation_form_modal" tabindex="-1" aria-labelledby="comfirmationFormModal" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content custom-modal-content">
+                <div class="modal-header custom-modal-header">
+                    <h3 class="modal-title custom-modal-title">Xác Nhận</h3>
+                    <button type="button" class="btn-close" id="close_dialog" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <button class="btn btn-secondary w-25">Không</button>
+                    <button class="btn btn-danger w-25">Có</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
+</body>
+</html>

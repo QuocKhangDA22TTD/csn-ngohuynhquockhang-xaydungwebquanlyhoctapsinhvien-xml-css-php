@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ketqua>
+    <kqht>
+        <mssv>110111002</mssv>
+        <monhoc>220236 </monhoc>
+        <hocky>1</hocky>
+        <diemthilan1>7</diemthilan1>
+        <diemthilan2>8</diemthilan2>
+        <giangvien>00246</giangvien>
+    </kqht>
+    <kqht>
+        <mssv>110111003</mssv>
+        <monhoc>220236 </monhoc>
+        <hocky>1</hocky>
+        <diemthilan1>9</diemthilan1>
+        <diemthilan2>7</diemthilan2>
+        <giangvien>00246</giangvien>
+    </kqht>
+</ketqua>

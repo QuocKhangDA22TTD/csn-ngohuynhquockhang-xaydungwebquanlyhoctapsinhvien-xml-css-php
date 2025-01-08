@@ -1,0 +1,86 @@
+:root {
+    --sidebar-background-color: #0e0c28;
+    --navbar-background-color: #ffffff;
+    --avatar-color: #7a80b4;
+    --avatar-hover-color: #242849;
+    --sidebar-a-color: #7a80b4;
+    --sidebar-a-hover-color: #eeeeee;
+    --sidebar-a-hover-background-color: #242849;
+    --content-background-color: #efeff6;
+    --latest-news-link: #dddddd;
+    --latest-news-link-hover: #bbbbbb;
+}
+
+.table-container {
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: 10px;
+    box-shadow: 0 4px 6px var(--avatar-hover-color);
+}
+
+.table_th_custom {
+    background-color: var(--sidebar-a-hover-background-color);
+    color: var(--sidebar-a-hover-color);
+}
+
+.table i {
+    margin-right: 5px;
+}
+
+.table td, table th {
+     text-align: center;
+}
+
+.add-search_student {
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.search {
+    background-color: var(--latest-news-link-hover);
+    border-radius: 10px;
+    border: 1px solid var(--sidebar-background-color);
+}
+
+.search input {
+    border-radius: 10px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-right: 1px solid var(--sidebar-background-color);
+}
+
+.search i {
+    font-size: 25px;
+    margin: 0 15px 0 15px;
+}
+
+.custom-search-btn {
+    border: none;
+}
+
+.custom-search-btn:hover {
+    color: var(--navbar-background-color);
+}
+
+.custom-modal-content {
+    background-color: var(--navbar-background-color);
+}
+
+.custom-modal-header {
+    background-color: var(--sidebar-background-color);
+}
+
+.custom-modal-title {
+    color: var(--sidebar-a-hover-color);
+}
+
+.modal-body label {
+    color: var(--sidebar-background-color);
+    font-weight: 500;
+    color: var(--sidebar-background-color);
+}
+
+#close_dialog {
+    background-color: var(--latest-news-link-hover);
+}

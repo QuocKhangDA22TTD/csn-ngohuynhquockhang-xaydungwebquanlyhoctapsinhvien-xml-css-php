@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dssv>
+    <sinhvien>
+        <masv>110122028</masv>
+        <matkhau>123</matkhau>
+        <tensv>Liễu Kiện An</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>23/05/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122056</masv>
+        <matkhau>123</matkhau>
+        <tensv>Hồ Nguyễn Quốc Dũng</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>19/08/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122058</masv>
+        <matkhau>123</matkhau>
+        <tensv>Đào Công Duy</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>17/06/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122059</masv>
+        <matkhau>123</matkhau>
+        <tensv>Huỳnh Khánh Duy</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>29/12/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122060</masv>
+        <matkhau>123</matkhau>
+        <tensv>Lê Hà Duy</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>19/08/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122061</masv>
+        <matkhau>123</matkhau>
+        <tensv>Nguyễn Lê Duy</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>26/06/2003</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122062</masv>
+        <matkhau>123</matkhau>
+        <tensv>Nguyễn Thanh Duy</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>26/02/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122064</masv>
+        <matkhau>123</matkhau>
+        <tensv>Trương Mỹ Duyên</tensv>
+        <gioitinh>Nữ</gioitinh>
+        <namsinh>18/06/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122054</masv>
+        <matkhau>123</matkhau>
+        <tensv>Trần Lâm Phú Đức</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>18/01/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122055</masv>
+        <matkhau>123</matkhau>
+        <tensv>Trần Minh Đức</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>03/01/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122066</masv>
+        <matkhau>123</matkhau>
+        <tensv>Trương Hoàng Giang</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>15/11/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122068</masv>
+        <matkhau>123</matkhau>
+        <tensv>Võ Chí Hải</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>21/02/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122070</masv>
+        <matkhau>123</matkhau>
+        <tensv>Đỗ Gia Hào</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>23/03/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122071</masv>
+        <matkhau>123</matkhau>
+        <tensv>Lâm Nhật Hào</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>21/11/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122069</masv>
+        <matkhau>123</matkhau>
+        <tensv>Nguyễn Thị Ngọc Hân</tensv>
+        <gioitinh>Nữ</gioitinh>
+        <namsinh>02/11/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122074</masv>
+        <matkhau>123</matkhau>
+        <tensv>Đàm Thúy Hiền</tensv>
+        <gioitinh>Nữ</gioitinh>
+        <namsinh>14/12/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122075</masv>
+        <matkhau>123</matkhau>
+        <tensv>Đặng Minh Hiếu</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>28/08/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122076</masv>
+        <matkhau>123</matkhau>
+        <tensv>Phạm Trung Hiếu</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>13/01/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122077</masv>
+        <matkhau>123</matkhau>
+        <tensv>Huỳnh Minh Khải Hoàn</tensv>
+        <gioitinh>Nữ</gioitinh>
+        <namsinh>19/08/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122078</masv>
+        <matkhau>123</matkhau>
+        <tensv>Nguyễn Văn Hoàng</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>18/09/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122079</masv>
+        <matkhau>123</matkhau>
+        <tensv>Nguyễn Phi Hùng</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>08/05/2003</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122081</masv>
+        <matkhau>123</matkhau>
+        <tensv>Trần Tấn Hưng</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>13/02/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122082</masv>
+        <matkhau>123</matkhau>
+        <tensv>Châu Thị Mỹ Hương</tensv>
+        <gioitinh>Nữ</gioitinh>
+        <namsinh>15/05/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122083</masv>
+        <matkhau>123</matkhau>
+        <tensv>Đỗ Thị Kim Hương</tensv>
+        <gioitinh>Nữ</gioitinh>
+        <namsinh>02/05/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122086</masv>
+        <matkhau>123</matkhau>
+        <tensv>Lê Tuấn Kha</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>07/01/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122087</masv>
+        <matkhau>123</matkhau>
+        <tensv>Trầm Tấn Khá</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>11/03/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122089</masv>
+        <matkhau>123</matkhau>
+        <tensv>Phan Đình Khải</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>05/03/2004</namsinh>
+        <noisinh>Bến Tre</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122090</masv>
+        <matkhau>123</matkhau>
+        <tensv>La Thuấn Khang</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>28/06/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122092</masv>
+        <matkhau>123</matkhau>
+        <tensv>Ngô Huỳnh Quốc Khang</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>15/10/2003</namsinh>
+        <noisinh>Sóc Trăng</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122093</masv>
+        <matkhau>123</matkhau>
+        <tensv>Hồ Anh Khoa</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>28/11/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122094</masv>
+        <matkhau>123</matkhau>
+        <tensv>Nguyễn Đinh Tuấn Khoa</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>05/05/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122095</masv>
+        <matkhau>123</matkhau>
+        <tensv>Nguyễn Ngọc Anh Khoa</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>29/03/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122097</masv>
+        <matkhau>123</matkhau>
+        <tensv>Nguyễn Minh Khởi</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>07/12/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122098</masv>
+        <matkhau>123</matkhau>
+        <tensv>Đặng Gia Kiệt</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>04/03/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122099</masv>
+        <matkhau>123</matkhau>
+        <tensv>Hoàng Tuấn Kiệt</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>03/10/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122100</masv>
+        <matkhau>123</matkhau>
+        <tensv>Huỳnh Quốc Kiệt</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>04/01/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122101</masv>
+        <matkhau>123</matkhau>
+        <tensv>Phùng Quốc Kiệt</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>02/09/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122102</masv>
+        <matkhau>123</matkhau>
+        <tensv>Nguyễn Hoàng Lăm</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>08/09/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122103</masv>
+        <matkhau>123</matkhau>
+        <tensv>Hà Gia Lộc</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>22/08/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122105</masv>
+        <matkhau>123</matkhau>
+        <tensv>Nguyễn Đỗ Thành Lộc</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>13/03/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122106</masv>
+        <matkhau>123</matkhau>
+        <tensv>Mai Hồng Lợi</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>06/04/2003</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122243</masv>
+        <matkhau>123</matkhau>
+        <tensv>Phạm Duy Tân</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>24/02/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122246</masv>
+        <matkhau>123</matkhau>
+        <tensv>Trần Thanh Thưởng</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>07/07/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122248</masv>
+        <matkhau>123</matkhau>
+        <tensv>Nguyễn Thanh Triệu</tensv>
+        <gioitinh>Nam</gioitinh>
+        <namsinh>21/09/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+    <sinhvien>
+        <masv>110122249</masv>
+        <matkhau>123</matkhau>
+        <tensv>Lâm Tinh Tú</tensv>
+        <gioitinh>Nữ</gioitinh>
+        <namsinh>23/11/2004</namsinh>
+        <noisinh>Trà Vinh</noisinh>
+        <nganh>Công Nghệ Thông Tin</nganh>
+    </sinhvien>
+</dssv>
