@@ -1,7 +1,7 @@
 # TÌM HIỂU NGÔN NGỮ XML VÀ XÂY DỰNG ỨNG DỤNG WEB QUẢN LÝ KẾT QUẢ HỌC TẬP SINH VIÊN
 
 ## Giới Thiệu
-dự án tập trung giải quyết xây dựng một hệ
+Dự án tập trung giải quyết xây dựng một hệ
 thống website giúp cán bộ quản lý lưu trữ kết quả học tập của sinh viên và lập báo 
 cáo thống kê kết quả học tập của sinh viên, đồng thời tích lũy kiến thức về cách thức 
 triển khai một ứng dụng web với PHP và quản lý dữ liệu với XML
